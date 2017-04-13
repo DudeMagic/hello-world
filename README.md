@@ -1,2 +1,3 @@
 # hello-world
 A respository
+I LOVE CODEING BUT AM VERY NEW TO THIS TYPE OF ADVANCED CODING
